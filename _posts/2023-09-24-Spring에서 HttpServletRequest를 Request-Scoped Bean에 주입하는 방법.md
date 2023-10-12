@@ -1,5 +1,5 @@
 ---
-title: Spring에서 HttpServletRequest를 Request-Scoped Bean에 주입하는 방법
+title: Spring에서 HttpServletRequest를 Request Scoped Bean에 주입하는 방법
 date: 2023-09-24 20:00:00 +0900
 categories:
   - Spring
