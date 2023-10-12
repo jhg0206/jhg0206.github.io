@@ -1,5 +1,5 @@
 ---
-title: Spring Data에서 deleteBy 메서드 사용하기
+title: Spring Data에서 deleteBy 메서드 사용
 date: 2023-08-21 20:00:00 +0900
 categories:
   - Spring
